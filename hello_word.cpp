@@ -5,4 +5,5 @@ int main(){
     cout<<5+6<<endl;
     cout<<11-12<<11+12<<endl;
     cout<<11*12<<endl;
+    cout<<11/12<<endl;
 }
